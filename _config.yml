@@ -4,17 +4,18 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: 银城的博客
+SEOTitle: 银城的博客
 subtitle:
 description:
-author: John Doe
+author: YinCheng
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: "https://yinchenghc.github.io/yincheng/"
 baseurl:
 permalink: pretty
 
